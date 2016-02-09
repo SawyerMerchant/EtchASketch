@@ -1,0 +1,22 @@
+.frame {
+  text-align: center;
+}
+
+.container{
+  height: 960px;
+  width: 960px;
+  margin: 50px auto;
+  line-height: 0
+}
+
+.cell {
+  height: 30px;
+  width: 30px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: green;
+  background-color: orange;
+  display: inline-block;
+  color: white
+  
+}
